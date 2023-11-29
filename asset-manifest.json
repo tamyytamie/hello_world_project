@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tamyytamie/hello_world_project.git/static/css/main.e6c13ad2.css",
+    "main.js": "/tamyytamie/hello_world_project.git/static/js/main.fd08e3ca.js",
+    "static/js/787.f771df1d.chunk.js": "/tamyytamie/hello_world_project.git/static/js/787.f771df1d.chunk.js",
+    "index.html": "/tamyytamie/hello_world_project.git/index.html",
+    "main.e6c13ad2.css.map": "/tamyytamie/hello_world_project.git/static/css/main.e6c13ad2.css.map",
+    "main.fd08e3ca.js.map": "/tamyytamie/hello_world_project.git/static/js/main.fd08e3ca.js.map",
+    "787.f771df1d.chunk.js.map": "/tamyytamie/hello_world_project.git/static/js/787.f771df1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd08e3ca.js"
+  ]
+}
